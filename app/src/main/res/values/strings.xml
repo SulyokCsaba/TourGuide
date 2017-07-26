@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!--Categories name-->
+    <string name="category_visit">Visit</string>
+    <string name="category_drink">Drink</string>
+    <string name="category_eat">Eat</string>
+    <string name="category_sleep">Sleep</string>
+
+    <string name="to_the_website">To the website</string>
+
+    <!--Location for Visit tab-->
+    <!--Location 1-->
+    <string name="visit1_name">Parlament</string>
+    <string name="visit1_address">1357 Budapest, Kossuth tér 1&#8211;3.</string>
+    <string name="visit1_opening_time">Monday to Sunday: 8:00 – 18:00</string>
+    <string name="visit1_website">http://www.parlament.hu/</string>
+    <!--Location  2-->
+    <string name="visit2_name">Gellérthegyi Viewpoint</string>
+    <string name="visit2_address">1118 Budapest, Gellért-hegy</string>
+    <string name="visit2_opening_time">Open all day and night</string>
+    <string name="visit2_website">https://foursquare.com/</string>
+
+    <!--Location  for Drink tab-->
+    <!--Location  1-->
+    <string name="drink1_name">kÁoSz DrInK sTaTiOn</string>
+    <string name="drink1_address">Budapest VI. került, Szófia utca 7.</string>
+    <string name="drink1_opening_time">Mon to Sat 16:00&#8211;01:00</string>
+    <string name="drink1_website">http://www.kaoszbudapest.hu/</string>
+
+    <!--Location  2-->
+    <string name="drink2_name">Corvinus Cafe Nyugati</string>
+    <string name="drink2_address">Budapest VI. kerület, Jókai utca 38.</string>
+    <string name="drink2_opening_time">Open daily 14:00&#8211;02:00</string>
+    <string name="drink2_website">http://nyugati.corvinuscafe.com/</string>
+
+    <!--Location  for Eat tab-->
+    <!--Location  1-->
+    <string name="eat1_name">Lucky 7 Burgers and More</string>
+    <string name="eat1_address">Piarista utca 1., Budapest 1052, Magyarország</string>
+    <string name="eat1_opening_time">Every day 12:00&#8211;23:30</string>
+    <string name="eat1_website">https://www.lucky7burgers.com/</string>
+
+    <!--Location  2-->
+    <string name="eat2_name">Arany Kaviár Restaurant</string>
+    <string name="eat2_address">Ostrom utca 19., Budapest 1015, Magyarország</string>
+    <string name="eat2_opening_time">Open daily Noon - 22:30</string>
+    <string name="eat2_website">http://aranykaviar.hu/</string>
+
+    <!--Location  for Sleep tab-->
+    <!--Location  1-->
+    <string name="sleep1_name">Intercontinental Budapest</string>
+    <string name="sleep1_address">Budapest Apaczai Csere J. U. 12&#8211;14.</string>
+    <string name="sleep1_opening_time">Check-in after 15:00 - Check-out before 12:00</string>
+    <string name="sleep1_website">http://budapest.intercontinental.com/hu/</string>
+
+    <!--Location  2-->
+    <string name="sleep2_name">Danubius Hotel Margitsziget</string>
+    <string name="sleep2_address">Budapest-Margitsziget , 1007 Budapest, Magyarország</string>
+    <string name="sleep2_opening_time">Check-in after 15.00 &#8211; Check-out before 11.00</string>
+    <string name="sleep2_website">https://www.danubiushotels.com/hu/szallodak-budapest/danubius-health-spa-resort-margitsziget/</string>
+
+</resources>
